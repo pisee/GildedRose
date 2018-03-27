@@ -7,7 +7,7 @@ import org.junit.Test;
 import com.gildedrose.GildedRose;
 import com.gildedrose.Item;
 
-public class GildedRoseTest {
+public class GildedRoseTest_coverage {
 	
 	private static final String NO_NAME = "noname";
 
